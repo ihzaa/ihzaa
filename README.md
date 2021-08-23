@@ -2,6 +2,8 @@
 - 👀 I’m interested in Laravel
 - 🌱 I’m currently learning NodeJS
 
+<p>I have graduated with a bachelor's degree in informatics engineering from the University of Muhammadiyah Malang. I've been using laravel since 2019. I can develop responsive and high-performance websites. I can also develop REST API applications. I am always open to adding new insights and experiences and knowledge.</p>
+
 ---
 
 <p align="left">
