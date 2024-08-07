@@ -1,8 +1,9 @@
 ## 👋 Hi, I’m @ihzaa
 - 👀 I’m expert in Laravel
 - 🌱 I’m currently learning NodeJS
+- 📌 <a href="https://github.com/ihzaa/ihzaa/blob/main/Portofolio.pdf" target="_blank"> Click here</a> to see my full portofolio
 
-<p>I am a graduate my degree in <strong>informatics engineering</strong> at Universitas Muhammadiyah Malang with 3.88 GPA. I am passionate and interested in field of <strong>website developer</strong>. I have 3 years experience as a <strong>website developer</strong> especially using <strong>PHP (Laravel)</strong> and <strong>Nodejs (Express.js)</strong> and I am success build about <strong>22 websites</strong>. I used to using <strong>ORM (eloquent)</strong> to communicate with database like <strong>MySQL</strong> and deploying the system to <strong>linux environment</strong>. I can develop <strong>responsive</strong> and <strong>high-performance</strong> websites. I can also develop <strong>REST API</strong> applications. I'm used to using version control like <strong>git</strong>. Currently I am looking for opportunities in <strong>website developer</strong> to enlarge my knowledge.</p>
+<p>I am a graduate my degree in <strong>informatics engineering</strong> at Universitas Muhammadiyah Malang with 3.88 GPA. I am passionate and interested in field of <strong>website developer</strong>. I have 3 years experience as a <strong>website developer</strong> especially using <strong>PHP (Laravel)</strong> and <strong>Nodejs (Express.js)</strong> and I am success build about <strong>22 websites</strong>. I used to using <strong>ORM (eloquent)</strong> to communicate with database like <strong>MySQL</strong> and deploying the system to <strong>linux environment</strong>. I can develop <strong>responsive</strong> and <strong>high-performance</strong> websites. I can also develop <strong>REST API</strong> applications. I'm used to using version control like <strong>git</strong>. I also ensure to code according to <strong>standards</strong> and <strong>best practices</strong> to facilitate future maintenance and to enhance system security.</p>
 
 ---
 
